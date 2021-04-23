@@ -5,7 +5,7 @@ Mainline 5.12 kernel with support for LG G8s added
 
 # What works
 
-`Boot'
+`Boot`
 `Framebuffer device taken over from bootloader`
 `vol up vol down and power keys`
 `gpio`
